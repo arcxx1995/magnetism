@@ -1,7 +1,7 @@
-# Ftana – Project Specification & Architecture
+# Magnetism – Project Specification & Architecture
 
 ## 1. Overview
-Ftana is an iOS app that acts as an AI-powered wingperson, blending emotional intelligence, personalized dating advice, and chat analysis to help users navigate dating conversations and build confidence.
+Magnetism is an iOS app that acts as an AI-powered wingperson, blending emotional intelligence, personalized dating advice, and chat analysis to help users navigate dating conversations and build confidence.
 
 ---
 
@@ -27,7 +27,7 @@ Ftana is an iOS app that acts as an AI-powered wingperson, blending emotional in
 - Paste chat text or upload screenshot
 - AI analysis (mood, tone, cues, intent)
 - Suggested replies (with tone options)
-- "Ftana Predicts" (interest/intent cues)
+- "Magnetism Predicts" (interest/intent cues)
 - Rizz Coach (daily prompt, feedback, phrase vault)
 
 ### 2.4. Bonus Features
