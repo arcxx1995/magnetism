@@ -19,7 +19,7 @@ Magnetism is an iOS app that acts as your AI wingperson, combining emotional int
 - Detect mood, tone, and intent (e.g., playful, cold, stressed)
 - Suggest replies in various tones (funny, flirty, chill, deep)
 - Highlight cues (e.g., sarcasm, mirroring)
-- "Ftana Predicts": Are they interested or losing interest?
+- "Magnetism Predicts": Are they interested or losing interest?
 
 ### 4. Mood & Intent Analysis
 - Analyze message frequency, emoji use, delays, and tone changes
@@ -62,7 +62,7 @@ Magnetism is an iOS app that acts as your AI wingperson, combining emotional int
    git clone <your-repo-url>
    ```
 2. **Open in Xcode**
-   - Open `Ftana.xcodeproj` in Xcode (15+ recommended)
+   - Open `Magnetism.xcodeproj` in Xcode (15+ recommended)
 3. **Configure Firebase**
    - Create a Firebase project
    - Download `GoogleService-Info.plist` and add to Xcode project
@@ -77,7 +77,7 @@ Magnetism is an iOS app that acts as your AI wingperson, combining emotional int
 ---
 
 ## 📂 Project Structure
-- `/Ftana/` – SwiftUI app source code
+- `/Magnetism/` – SwiftUI app source code
 - `/cloud-functions/` – Firebase functions for OpenAI integration
 - `/Resources/` – Assets, icons, etc.
 - `README.md` – This document
