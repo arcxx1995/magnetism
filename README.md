@@ -1,6 +1,6 @@
-# Ftana – Your AI Wingperson with Emotional Intelligence
+# Magnestism – Your AI Wingperson with Emotional Intelligence
 
-Ftana is an iOS app that acts as your AI wingperson, combining emotional intelligence, personalized dating advice, and real-time chat analysis to help you navigate the world of modern dating.
+Magnetism is an iOS app that acts as your AI wingperson, combining emotional intelligence, personalized dating advice, and real-time chat analysis to help you navigate the world of modern dating.
 
 ---
 
